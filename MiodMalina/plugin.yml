@@ -1,7 +1,0 @@
-name: MiodMalina
-main: io.github.albercik34.miodmalina
-version: 1.0
-
-package {$TopLevelDomain}.{$Domain}.{$PluginName};
-
-import
